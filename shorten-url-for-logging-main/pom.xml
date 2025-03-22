@@ -37,6 +37,11 @@
 			<version>1.18.30</version> <!-- 버전은 최신으로 -->
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>net.logstash.logback</groupId>
+			<artifactId>logstash-logback-encoder</artifactId>
+			<version>7.4</version>
+		</dependency>
 	</dependencies>
 
 	<build>
